@@ -16,7 +16,7 @@ func main() {
 
 	// creer un fichier pour stocker les logs
 	// file, err := os.Create("./td5/result3.txt")
-	file, err := os.Create("../../../result3.txt ")
+	file, err := os.Create("./result3.txt ")
 
 	if err != nil {
 		log.Fatalf("failed creating file: %s", err)
