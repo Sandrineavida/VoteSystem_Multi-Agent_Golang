@@ -1,32 +1,36 @@
 # Pour récupérer sur gitlab le package
 
 ## FOR WINDOWS:
-'''bash
+
+```bash
 set GOPRIVATE=gitlab.utc.fr
-'''
-'''bash
+```
+
+```bash
 go get gitlab.utc.fr/sunhudie/ia04-projet-par-binome@v0.1.0
-'''
-'''bash
+```
+
+```bash
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-all-rest-agents@v0.1.0 
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-rcagt@v0.1.0 
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-rsagt@v0.1.0 
-'''
+```
 
 ## FOR MAC or LINUX:
 
-'''bash
+```bash
 export GOPRIVATE=gitlab.utc.fr
-'''
-'''bash
+```
+
+```bash
 go get gitlab.utc.fr/sunhudie/ia04-projet-par-binome@v0.1.0
-'''
-'''bash
+```
+
+```bash
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-all-rest-agents@v0.1.0 
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-rcagt@v0.1.0 
 go install gitlab.utc.fr/sunhudie/ia04-projet-par-binome/vote/cmd/launch-rsagt@v0.1.0 
-'''
-
+```
 
 # Types
 
