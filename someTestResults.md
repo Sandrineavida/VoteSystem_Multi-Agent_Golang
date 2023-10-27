@@ -2,4 +2,6 @@
 
 (Testing only `launch-rsagt.exe`)
 
-![serveronly-newballot](./testresult-pic/serveronly-newballot.png)
+
+<img src="./testresult-pic/serveronly-newballot.png" width="200" height="200" alt="serveronly-newballot">
+
