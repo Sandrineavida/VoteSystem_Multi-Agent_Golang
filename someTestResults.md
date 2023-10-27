@@ -22,15 +22,15 @@
 
 ### borda
 
-![all_result-borda](./testresult-pic/all_result-borda.png)
+![all_result-borda](./testresult-pic/all-result_borda.png)
 
 ### copeland
 
-![all_result-copeland](./testresult-pic/all_result-copeland.png)
+![all_result-copeland](./testresult-pic/all-result-copeland.png)
 
 ### approval
 
-![all_result-approval](./testresult-pic/all_result-approval.png)
+![all_result-approval](./testresult-pic/all-result_approval.png)
 
 # Testing only Server
 
