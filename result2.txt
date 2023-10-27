@@ -1,0 +1,611 @@
+2023/10/17 14:34:40 démarrage du serveur...
+2023/10/17 14:34:40 démarrage du client qui génère les ballots...
+2023/10/17 14:34:40 Listening on :8080
+2023/10/17 14:34:40 Creating different ballots...
+2023/10/17 14:34:40 [POST][ballot_creation_agt] Request to create ballot, id = borda, New ballot created successfully, Ballot ID: vote_borda
+2023/10/17 14:34:40 [POST][ballot_creation_agt] Request to create ballot, id = majority, New ballot created successfully, Ballot ID: vote_majority
+2023/10/17 14:34:40 [POST][ballot_creation_agt] Request to create ballot, id = copeland, New ballot created successfully, Ballot ID: vote_copeland
+2023/10/17 14:34:40 [POST][ballot_creation_agt] Request to create ballot, id = approval, New ballot created successfully, Ballot ID: vote_approval
+2023/10/17 14:34:40 [POST][ballot_creation_agt] Request to create ballot, id = stv, New ballot created successfully, Ballot ID: vote_stv
+2023/10/17 14:34:45 démarrage des clients...
+2023/10/17 14:34:45 démarrage de id08
+2023/10/17 14:34:45 démarrage de id01
+2023/10/17 14:34:45 démarrage de id19
+2023/10/17 14:34:45 démarrage de id22
+2023/10/17 14:34:45 démarrage de id39
+2023/10/17 14:34:45 démarrage de id30
+2023/10/17 14:34:45 démarrage de id14
+2023/10/17 14:34:45 démarrage de id29
+2023/10/17 14:34:45 démarrage de id83
+2023/10/17 14:34:45 démarrage de id09
+2023/10/17 14:34:45 démarrage de id91
+2023/10/17 14:34:45 démarrage de id95
+2023/10/17 14:34:45 démarrage de id10
+2023/10/17 14:34:45 démarrage de id98
+2023/10/17 14:34:45 démarrage de id93
+2023/10/17 14:34:45 [POST][id39] voting to vote_borda, preferences = [10 9 6 2 3 5 4 8 1 7], Vote successful
+2023/10/17 14:34:45 démarrage de id97
+2023/10/17 14:34:45 démarrage de id11
+2023/10/17 14:34:45 démarrage de id12
+2023/10/17 14:34:45 démarrage de id13
+2023/10/17 14:34:45 démarrage de id03
+2023/10/17 14:34:45 démarrage de id00
+2023/10/17 14:34:45 démarrage de id02
+2023/10/17 14:34:45 démarrage de id05
+2023/10/17 14:34:45 démarrage de id04
+2023/10/17 14:34:45 démarrage de id06
+2023/10/17 14:34:45 démarrage de id07
+2023/10/17 14:34:45 démarrage de id24
+2023/10/17 14:34:45 démarrage de id15
+2023/10/17 14:34:45 démarrage de id16
+2023/10/17 14:34:45 démarrage de id17
+2023/10/17 14:34:45 démarrage de id18
+2023/10/17 14:34:45 démarrage de id21
+2023/10/17 14:34:45 démarrage de id20
+2023/10/17 14:34:45 démarrage de id35
+2023/10/17 14:34:45 démarrage de id31
+2023/10/17 14:34:45 démarrage de id32
+2023/10/17 14:34:45 démarrage de id33
+2023/10/17 14:34:45 [POST][id14] voting to vote_borda, preferences = [5 9 7 4 1 6 10 2 3 8], Vote successful
+2023/10/17 14:34:45 démarrage de id34
+2023/10/17 14:34:45 démarrage de id23
+2023/10/17 14:34:45 démarrage de id40
+2023/10/17 14:34:45 démarrage de id36
+2023/10/17 14:34:45 démarrage de id37
+2023/10/17 14:34:45 démarrage de id38
+2023/10/17 14:34:45 démarrage de id27
+2023/10/17 14:34:45 démarrage de id25
+2023/10/17 14:34:45 démarrage de id26
+2023/10/17 14:34:45 démarrage de id49
+2023/10/17 14:34:45 démarrage de id58
+2023/10/17 14:34:45 démarrage de id50
+2023/10/17 14:34:45 démarrage de id51
+2023/10/17 14:34:45 démarrage de id52
+2023/10/17 14:34:45 démarrage de id53
+2023/10/17 14:34:45 démarrage de id54
+2023/10/17 14:34:45 démarrage de id41
+2023/10/17 14:34:45 démarrage de id55
+2023/10/17 14:34:45 démarrage de id56
+2023/10/17 14:34:45 démarrage de id42
+2023/10/17 14:34:45 démarrage de id43
+2023/10/17 14:34:45 démarrage de id44
+2023/10/17 14:34:45 démarrage de id45
+2023/10/17 14:34:45 démarrage de id46
+2023/10/17 14:34:45 démarrage de id47
+2023/10/17 14:34:45 démarrage de id57
+2023/10/17 14:34:45 [POST][id98] voting to vote_borda, preferences = [5 9 7 1 2 10 6 8 3 4], Vote successful
+2023/10/17 14:34:45 démarrage de id48
+2023/10/17 14:34:45 démarrage de id28
+2023/10/17 14:34:45 [POST][id02] voting to vote_borda, preferences = [7 8 6 5 4 3 1 2 10 9], Vote successful
+2023/10/17 14:34:45 démarrage de id69
+2023/10/17 14:34:45 démarrage de id59
+2023/10/17 14:34:45 démarrage de id60
+2023/10/17 14:34:45 démarrage de id61
+2023/10/17 14:34:45 démarrage de id62
+2023/10/17 14:34:45 démarrage de id63
+2023/10/17 14:34:45 démarrage de id64
+2023/10/17 14:34:45 démarrage de id65
+2023/10/17 14:34:45 démarrage de id66
+2023/10/17 14:34:45 démarrage de id67
+2023/10/17 14:34:45 démarrage de id68
+2023/10/17 14:34:45 démarrage de id77
+2023/10/17 14:34:45 démarrage de id70
+2023/10/17 14:34:45 démarrage de id71
+2023/10/17 14:34:45 démarrage de id72
+2023/10/17 14:34:45 démarrage de id73
+2023/10/17 14:34:45 démarrage de id74
+2023/10/17 14:34:45 démarrage de id75
+2023/10/17 14:34:45 démarrage de id76
+2023/10/17 14:34:45 démarrage de id82
+2023/10/17 14:34:45 démarrage de id78
+2023/10/17 14:34:45 démarrage de id79
+2023/10/17 14:34:45 démarrage de id80
+2023/10/17 14:34:45 démarrage de id81
+2023/10/17 14:34:45 démarrage de id85
+2023/10/17 14:34:45 démarrage de id84
+2023/10/17 14:34:45 démarrage de id92
+2023/10/17 14:34:45 démarrage de id86
+2023/10/17 14:34:45 démarrage de id87
+2023/10/17 14:34:45 démarrage de id88
+2023/10/17 14:34:45 démarrage de id89
+2023/10/17 14:34:45 démarrage de id90
+2023/10/17 14:34:45 démarrage de id96
+2023/10/17 14:34:45 [POST][id08] voting to vote_borda, preferences = [2 4 10 9 8 3 6 5 1 7], Vote successful
+2023/10/17 14:34:45 démarrage de id94
+2023/10/17 14:34:45 démarrage de id99
+2023/10/17 14:34:45 [POST][id22] voting to vote_borda, preferences = [10 8 1 7 5 4 3 6 9 2], Vote successful
+2023/10/17 14:34:45 [POST][id30] voting to vote_borda, preferences = [8 10 4 9 1 7 6 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id01] voting to vote_borda, preferences = [4 6 5 1 9 7 10 2 8 3], Vote successful
+2023/10/17 14:34:45 [POST][id97] voting to vote_borda, preferences = [6 3 4 8 5 2 10 7 9 1], Vote successful
+2023/10/17 14:34:45 [POST][id19] voting to vote_borda, preferences = [3 5 1 9 2 7 10 4 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id70] voting to vote_borda, preferences = [1 10 7 5 8 3 9 4 2 6], Vote successful
+2023/10/17 14:34:45 [POST][id83] voting to vote_borda, preferences = [7 5 10 1 3 8 4 6 2 9], Vote successful
+2023/10/17 14:34:45 [POST][id78] voting to vote_borda, preferences = [5 1 9 6 3 7 8 2 10 4], Vote successful
+2023/10/17 14:34:45 [POST][id68] voting to vote_borda, preferences = [9 10 3 6 4 5 8 2 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id47] voting to vote_borda, preferences = [6 7 1 5 9 3 10 4 8 2], Vote successful
+2023/10/17 14:34:45 [POST][id42] voting to vote_borda, preferences = [6 5 4 8 9 1 10 7 3 2], Vote successful
+2023/10/17 14:34:45 [POST][id82] voting to vote_borda, preferences = [7 5 10 4 9 6 3 2 8 1], Vote successful
+2023/10/17 14:34:45 [POST][id39] voting to vote_majority, preferences = [10 9 6 2 3 5 4 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id72] voting to vote_borda, preferences = [4 6 1 3 8 7 10 9 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id32] voting to vote_borda, preferences = [5 2 3 9 1 4 8 7 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id00] voting to vote_borda, preferences = [3 4 6 7 1 5 2 8 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id38] voting to vote_borda, preferences = [3 6 10 2 7 9 1 8 4 5], Vote successful
+2023/10/17 14:34:45 [POST][id49] voting to vote_borda, preferences = [8 3 6 10 1 2 4 9 7 5], Vote successful
+2023/10/17 14:34:45 [POST][id09] voting to vote_borda, preferences = [1 6 4 9 2 8 5 3 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id74] voting to vote_borda, preferences = [8 5 6 2 7 3 4 1 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id41] voting to vote_borda, preferences = [2 7 4 3 10 5 6 8 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id19] voting to vote_majority, preferences = [3 5 1 9 2 7 10 4 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id87] voting to vote_borda, preferences = [2 7 3 1 9 6 8 4 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id98] voting to vote_majority, preferences = [5 9 7 1 2 10 6 8 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id61] voting to vote_borda, preferences = [2 3 10 5 7 1 9 8 6 4], Vote successful
+2023/10/17 14:34:45 [POST][id60] voting to vote_borda, preferences = [7 4 2 5 8 9 3 1 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id91] voting to vote_borda, preferences = [8 4 6 1 5 7 2 3 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id05] voting to vote_borda, preferences = [3 2 9 5 4 7 10 8 6 1], Vote successful
+2023/10/17 14:34:45 [POST][id10] voting to vote_borda, preferences = [10 6 3 7 1 2 4 9 5 8], Vote successful
+2023/10/17 14:34:45 [POST][id84] voting to vote_borda, preferences = [3 10 7 1 4 2 9 5 8 6], Vote successful
+2023/10/17 14:34:45 [POST][id99] voting to vote_borda, preferences = [10 1 4 2 3 9 7 6 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id62] voting to vote_borda, preferences = [9 1 7 3 2 10 4 8 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id93] voting to vote_borda, preferences = [6 4 2 3 1 8 10 5 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id79] voting to vote_borda, preferences = [6 5 8 9 2 4 7 1 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id44] voting to vote_borda, preferences = [3 6 5 1 9 2 10 7 8 4], Vote successful
+2023/10/17 14:34:45 [POST][id02] voting to vote_majority, preferences = [7 8 6 5 4 3 1 2 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id96] voting to vote_borda, preferences = [4 1 8 5 2 7 3 10 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id69] voting to vote_borda, preferences = [7 8 9 2 4 3 5 10 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id42] voting to vote_majority, preferences = [6 5 4 8 9 1 10 7 3 2], Vote successful
+2023/10/17 14:34:45 [POST][id47] voting to vote_majority, preferences = [6 7 1 5 9 3 10 4 8 2], Vote successful
+2023/10/17 14:34:45 [POST][id63] voting to vote_borda, preferences = [8 10 2 3 6 5 4 7 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id72] voting to vote_majority, preferences = [4 6 1 3 8 7 10 9 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id50] voting to vote_borda, preferences = [2 4 9 3 5 6 8 1 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id38] voting to vote_majority, preferences = [3 6 10 2 7 9 1 8 4 5], Vote successful
+2023/10/17 14:34:45 [POST][id73] voting to vote_borda, preferences = [4 2 3 6 9 5 10 1 8 7], Vote successful
+2023/10/17 14:34:45 [POST][id56] voting to vote_borda, preferences = [8 3 9 2 6 7 4 1 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id95] voting to vote_borda, preferences = [9 7 4 8 1 10 3 6 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id77] voting to vote_borda, preferences = [4 1 8 5 6 3 2 9 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id76] voting to vote_borda, preferences = [6 10 9 4 7 8 1 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id29] voting to vote_borda, preferences = [1 2 6 8 7 3 5 10 9 4], Vote successful
+2023/10/17 14:34:45 [POST][id11] voting to vote_borda, preferences = [5 2 8 7 4 3 6 9 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id85] voting to vote_borda, preferences = [4 8 6 9 5 7 1 10 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id64] voting to vote_borda, preferences = [8 1 2 4 6 3 9 10 5 7], Vote successful
+2023/10/17 14:34:45 [POST][id12] voting to vote_borda, preferences = [8 5 2 1 4 6 9 10 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id89] voting to vote_borda, preferences = [8 4 6 1 10 3 9 5 2 7], Vote successful
+2023/10/17 14:34:45 [POST][id57] voting to vote_borda, preferences = [6 8 5 3 9 10 7 2 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id34] voting to vote_borda, preferences = [2 5 8 10 7 4 6 9 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id86] voting to vote_borda, preferences = [9 7 3 8 5 1 4 2 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id66] voting to vote_borda, preferences = [7 4 1 9 3 6 2 10 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id24] voting to vote_borda, preferences = [2 8 4 3 1 5 9 6 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id92] voting to vote_borda, preferences = [3 9 2 4 5 7 10 1 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id98] voting to vote_approval, preferences = [5 9 7 1 2 10 6 8 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id87] voting to vote_majority, preferences = [2 7 3 1 9 6 8 4 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id13] voting to vote_borda, preferences = [4 1 10 8 6 9 5 3 7 2], Vote successful
+2023/10/17 14:34:45 [POST][id06] voting to vote_borda, preferences = [6 2 10 3 7 4 9 1 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id18] voting to vote_borda, preferences = [6 3 9 7 5 4 8 1 2 10], Vote successful
+2023/10/17 14:34:45 [POST][id99] voting to vote_majority, preferences = [10 1 4 2 3 9 7 6 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id15] voting to vote_borda, preferences = [6 4 1 10 5 8 9 7 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id07] voting to vote_borda, preferences = [2 1 4 5 6 3 10 7 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id73] voting to vote_majority, preferences = [4 2 3 6 9 5 10 1 8 7], Vote successful
+2023/10/17 14:34:45 [POST][id61] voting to vote_majority, preferences = [2 3 10 5 7 1 9 8 6 4], Vote successful
+2023/10/17 14:34:45 [POST][id65] voting to vote_borda, preferences = [6 5 9 4 2 1 3 10 7 8], Vote successful
+2023/10/17 14:34:45 [POST][id79] voting to vote_majority, preferences = [6 5 8 9 2 4 7 1 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id78] voting to vote_majority, preferences = [5 1 9 6 3 7 8 2 10 4], Vote successful
+2023/10/17 14:34:45 [POST][id09] voting to vote_majority, preferences = [1 6 4 9 2 8 5 3 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id08] voting to vote_majority, preferences = [2 4 10 9 8 3 6 5 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id19] voting to vote_approval, preferences = [3 5 1 9 2 7 10 4 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id42] voting to vote_approval, preferences = [6 5 4 8 9 1 10 7 3 2], Vote successful
+2023/10/17 14:34:45 [POST][id15] voting to vote_majority, preferences = [6 4 1 10 5 8 9 7 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id35] voting to vote_borda, preferences = [10 9 1 8 5 7 4 2 6 3], Vote successful
+2023/10/17 14:34:45 [POST][id26] voting to vote_borda, preferences = [5 9 6 4 2 10 3 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id36] voting to vote_borda, preferences = [2 7 9 6 4 5 8 3 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id03] voting to vote_borda, preferences = [2 7 4 1 10 3 5 8 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id63] voting to vote_majority, preferences = [8 10 2 3 6 5 4 7 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id92] voting to vote_majority, preferences = [3 9 2 4 5 7 10 1 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id04] voting to vote_borda, preferences = [3 7 6 5 2 8 10 4 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id07] voting to vote_majority, preferences = [2 1 4 5 6 3 10 7 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id40] voting to vote_borda, preferences = [6 3 5 4 10 7 2 1 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id08] voting to vote_approval, preferences = [2 4 10 9 8 3 6 5 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id78] voting to vote_approval, preferences = [5 1 9 6 3 7 8 2 10 4], Vote successful
+2023/10/17 14:34:45 [POST][id27] voting to vote_borda, preferences = [5 2 7 4 6 3 9 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id35] voting to vote_majority, preferences = [10 9 1 8 5 7 4 2 6 3], Vote successful
+2023/10/17 14:34:45 [POST][id63] voting to vote_approval, preferences = [8 10 2 3 6 5 4 7 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id26] voting to vote_majority, preferences = [5 9 6 4 2 10 3 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id87] voting to vote_approval, preferences = [2 7 3 1 9 6 8 4 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id41] voting to vote_majority, preferences = [2 7 4 3 10 5 6 8 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id60] voting to vote_majority, preferences = [7 4 2 5 8 9 3 1 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id94] voting to vote_borda, preferences = [6 2 9 10 3 5 8 7 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id37] voting to vote_borda, preferences = [8 4 1 5 3 2 10 7 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id31] voting to vote_borda, preferences = [9 5 3 10 6 8 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id16] voting to vote_borda, preferences = [1 10 2 8 4 7 5 3 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id70] voting to vote_majority, preferences = [1 10 7 5 8 3 9 4 2 6], Vote successful
+2023/10/17 14:34:45 [POST][id07] voting to vote_approval, preferences = [2 1 4 5 6 3 10 7 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id45] voting to vote_borda, preferences = [10 6 2 5 3 8 4 9 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id87] voting to vote_stv, preferences = [2 7 3 1 9 6 8 4 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id14] voting to vote_majority, preferences = [5 9 7 4 1 6 10 2 3 8], Vote successful
+2023/10/17 14:34:45 [POST][id10] voting to vote_majority, preferences = [10 6 3 7 1 2 4 9 5 8], Vote successful
+2023/10/17 14:34:45 [POST][id21] voting to vote_borda, preferences = [6 3 9 10 8 5 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id16] voting to vote_majority, preferences = [1 10 2 8 4 7 5 3 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id10] voting to vote_approval, preferences = [10 6 3 7 1 2 4 9 5 8], Vote successful
+2023/10/17 14:34:45 [POST][id07] voting to vote_stv, preferences = [2 1 4 5 6 3 10 7 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id23] voting to vote_borda, preferences = [5 9 7 8 2 6 10 1 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id95] voting to vote_majority, preferences = [9 7 4 8 1 10 3 6 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id41] voting to vote_approval, preferences = [2 7 4 3 10 5 6 8 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id77] voting to vote_majority, preferences = [4 1 8 5 6 3 2 9 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id21] voting to vote_majority, preferences = [6 3 9 10 8 5 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id33] voting to vote_borda, preferences = [9 10 3 4 6 5 2 8 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id17] voting to vote_borda, preferences = [8 7 3 5 10 4 6 9 1 2], Vote successful
+2023/10/17 14:34:45 [POST][id85] voting to vote_majority, preferences = [4 8 6 9 5 7 1 10 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id62] voting to vote_majority, preferences = [9 1 7 3 2 10 4 8 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id66] voting to vote_majority, preferences = [7 4 1 9 3 6 2 10 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id20] voting to vote_borda, preferences = [5 4 1 10 6 8 2 3 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id54] voting to vote_borda, preferences = [6 1 5 4 7 9 2 3 8 10], Vote successful
+2023/10/17 14:34:45 [POST][id48] voting to vote_borda, preferences = [2 9 1 8 4 5 7 6 10 3], Vote successful
+2023/10/17 14:34:45 [POST][id46] voting to vote_borda, preferences = [7 2 6 5 9 4 3 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id58] voting to vote_borda, preferences = [10 8 6 1 7 5 2 3 4 9], Vote successful
+2023/10/17 14:34:45 [POST][id59] voting to vote_borda, preferences = [6 5 8 2 9 10 7 4 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id97] voting to vote_majority, preferences = [6 3 4 8 5 2 10 7 9 1], Vote successful
+2023/10/17 14:34:45 [POST][id71] voting to vote_borda, preferences = [6 10 8 1 9 4 5 2 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id53] voting to vote_borda, preferences = [10 2 9 8 4 3 5 7 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id44] voting to vote_majority, preferences = [3 6 5 1 9 2 10 7 8 4], Vote successful
+2023/10/17 14:34:45 [POST][id07] voting to vote_copeland, preferences = [2 1 4 5 6 3 10 7 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id95] voting to vote_approval, preferences = [9 7 4 8 1 10 3 6 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id41] voting to vote_stv, preferences = [2 7 4 3 10 5 6 8 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id56] voting to vote_majority, preferences = [8 3 9 2 6 7 4 1 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id51] voting to vote_borda, preferences = [3 4 8 9 1 10 7 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id64] voting to vote_majority, preferences = [8 1 2 4 6 3 9 10 5 7], Vote successful
+2023/10/17 14:34:45 [POST][id95] voting to vote_stv, preferences = [9 7 4 8 1 10 3 6 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id16] voting to vote_approval, preferences = [1 10 2 8 4 7 5 3 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id51] voting to vote_majority, preferences = [3 4 8 9 1 10 7 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id43] voting to vote_borda, preferences = [5 8 10 1 4 6 7 2 9 3], Vote successful
+2023/10/17 14:34:45 [POST][id41] voting to vote_copeland, preferences = [2 7 4 3 10 5 6 8 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id62] voting to vote_approval, preferences = [9 1 7 3 2 10 4 8 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id28] voting to vote_borda, preferences = [4 5 9 7 6 2 1 3 10 8], Vote successful
+2023/10/17 14:34:45 [POST][id23] voting to vote_majority, preferences = [5 9 7 8 2 6 10 1 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id52] voting to vote_borda, preferences = [10 3 9 8 5 1 6 7 4 2], Vote successful
+2023/10/17 14:34:45 [POST][id48] voting to vote_majority, preferences = [2 9 1 8 4 5 7 6 10 3], Vote successful
+2023/10/17 14:34:45 [POST][id17] voting to vote_majority, preferences = [8 7 3 5 10 4 6 9 1 2], Vote successful
+2023/10/17 14:34:45 [POST][id55] voting to vote_borda, preferences = [7 8 5 6 4 1 9 2 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id21] voting to vote_approval, preferences = [6 3 9 10 8 5 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id81] voting to vote_borda, preferences = [4 1 5 8 10 9 2 6 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id12] voting to vote_majority, preferences = [8 5 2 1 4 6 9 10 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id85] voting to vote_approval, preferences = [4 8 6 9 5 7 1 10 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id88] voting to vote_borda, preferences = [1 8 10 4 7 2 3 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id33] voting to vote_majority, preferences = [9 10 3 4 6 5 2 8 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id67] voting to vote_borda, preferences = [2 8 4 3 1 9 6 5 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id53] voting to vote_majority, preferences = [10 2 9 8 4 3 5 7 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id89] voting to vote_majority, preferences = [8 4 6 1 10 3 9 5 2 7], Vote successful
+2023/10/17 14:34:45 [POST][id80] voting to vote_borda, preferences = [3 7 2 1 4 8 10 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id95] voting to vote_copeland, preferences = [9 7 4 8 1 10 3 6 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id54] voting to vote_majority, preferences = [6 1 5 4 7 9 2 3 8 10], Vote successful
+2023/10/17 14:34:45 [POST][id83] voting to vote_majority, preferences = [7 5 10 1 3 8 4 6 2 9], Vote successful
+2023/10/17 14:34:45 [POST][id39] voting to vote_approval, preferences = [10 9 6 2 3 5 4 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id29] voting to vote_majority, preferences = [1 2 6 8 7 3 5 10 9 4], Vote successful
+2023/10/17 14:34:45 [POST][id51] voting to vote_approval, preferences = [3 4 8 9 1 10 7 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id64] voting to vote_approval, preferences = [8 1 2 4 6 3 9 10 5 7], Vote successful
+2023/10/17 14:34:45 [POST][id43] voting to vote_majority, preferences = [5 8 10 1 4 6 7 2 9 3], Vote successful
+2023/10/17 14:34:45 [POST][id16] voting to vote_stv, preferences = [1 10 2 8 4 7 5 3 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id56] voting to vote_approval, preferences = [8 3 9 2 6 7 4 1 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id51] voting to vote_stv, preferences = [3 4 8 9 1 10 7 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id66] voting to vote_approval, preferences = [7 4 1 9 3 6 2 10 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id90] voting to vote_borda, preferences = [7 8 3 4 5 10 1 2 9 6], Vote successful
+2023/10/17 14:34:45 [POST][id58] voting to vote_majority, preferences = [10 8 6 1 7 5 2 3 4 9], Vote successful
+2023/10/17 14:34:45 [POST][id46] voting to vote_majority, preferences = [7 2 6 5 9 4 3 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id59] voting to vote_majority, preferences = [6 5 8 2 9 10 7 4 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id25] voting to vote_borda, preferences = [9 10 6 2 4 8 5 1 7 3], Vote successful
+2023/10/17 14:34:45 [POST][id97] voting to vote_approval, preferences = [6 3 4 8 5 2 10 7 9 1], Vote successful
+2023/10/17 14:34:45 [POST][id75] voting to vote_borda, preferences = [9 10 1 7 3 8 4 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id83] voting to vote_approval, preferences = [7 5 10 1 3 8 4 6 2 9], Vote successful
+2023/10/17 14:34:45 [POST][id80] voting to vote_majority, preferences = [3 7 2 1 4 8 10 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id15] voting to vote_approval, preferences = [6 4 1 10 5 8 9 7 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id20] voting to vote_majority, preferences = [5 4 1 10 6 8 2 3 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id01] voting to vote_majority, preferences = [4 6 5 1 9 7 10 2 8 3], Vote successful
+2023/10/17 14:34:45 [POST][id22] voting to vote_majority, preferences = [10 8 1 7 5 4 3 6 9 2], Vote successful
+2023/10/17 14:34:45 [POST][id40] voting to vote_majority, preferences = [6 3 5 4 10 7 2 1 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id16] voting to vote_copeland, preferences = [1 10 2 8 4 7 5 3 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id12] voting to vote_approval, preferences = [8 5 2 1 4 6 9 10 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id20] voting to vote_approval, preferences = [5 4 1 10 6 8 2 3 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id62] voting to vote_stv, preferences = [9 1 7 3 2 10 4 8 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id30] voting to vote_majority, preferences = [8 10 4 9 1 7 6 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id40] voting to vote_approval, preferences = [6 3 5 4 10 7 2 1 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id68] voting to vote_majority, preferences = [9 10 3 6 4 5 8 2 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id21] voting to vote_stv, preferences = [6 3 9 10 8 5 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id58] voting to vote_approval, preferences = [10 8 6 1 7 5 2 3 4 9], Vote successful
+2023/10/17 14:34:45 [POST][id44] voting to vote_approval, preferences = [3 6 5 1 9 2 10 7 8 4], Vote successful
+2023/10/17 14:34:45 [POST][id71] voting to vote_majority, preferences = [6 10 8 1 9 4 5 2 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id17] voting to vote_approval, preferences = [8 7 3 5 10 4 6 9 1 2], Vote successful
+2023/10/17 14:34:45 [POST][id66] voting to vote_stv, preferences = [7 4 1 9 3 6 2 10 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id59] voting to vote_approval, preferences = [6 5 8 2 9 10 7 4 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id51] voting to vote_copeland, preferences = [3 4 8 9 1 10 7 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id44] voting to vote_stv, preferences = [3 6 5 1 9 2 10 7 8 4], Vote successful
+2023/10/17 14:34:45 [POST][id89] voting to vote_approval, preferences = [8 4 6 1 10 3 9 5 2 7], Vote successful
+2023/10/17 14:34:45 [POST][id97] voting to vote_stv, preferences = [6 3 4 8 5 2 10 7 9 1], Vote successful
+2023/10/17 14:34:45 [POST][id80] voting to vote_approval, preferences = [3 7 2 1 4 8 10 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id64] voting to vote_stv, preferences = [8 1 2 4 6 3 9 10 5 7], Vote successful
+2023/10/17 14:34:45 [POST][id91] voting to vote_majority, preferences = [8 4 6 1 5 7 2 3 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id89] voting to vote_stv, preferences = [8 4 6 1 10 3 9 5 2 7], Vote successful
+2023/10/17 14:34:45 [POST][id15] voting to vote_stv, preferences = [6 4 1 10 5 8 9 7 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id22] voting to vote_approval, preferences = [10 8 1 7 5 4 3 6 9 2], Vote successful
+2023/10/17 14:34:45 [POST][id91] voting to vote_approval, preferences = [8 4 6 1 5 7 2 3 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id72] voting to vote_approval, preferences = [4 6 1 3 8 7 10 9 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id64] voting to vote_copeland, preferences = [8 1 2 4 6 3 9 10 5 7], Vote successful
+2023/10/17 14:34:45 [POST][id97] voting to vote_copeland, preferences = [6 3 4 8 5 2 10 7 9 1], Vote successful
+2023/10/17 14:34:45 [POST][id84] voting to vote_majority, preferences = [3 10 7 1 4 2 9 5 8 6], Vote successful
+2023/10/17 14:34:45 [POST][id82] voting to vote_majority, preferences = [7 5 10 4 9 6 3 2 8 1], Vote successful
+2023/10/17 14:34:45 [POST][id49] voting to vote_majority, preferences = [8 3 6 10 1 2 4 9 7 5], Vote successful
+2023/10/17 14:34:45 [POST][id40] voting to vote_stv, preferences = [6 3 5 4 10 7 2 1 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id96] voting to vote_majority, preferences = [4 1 8 5 2 7 3 10 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id01] voting to vote_approval, preferences = [4 6 5 1 9 7 10 2 8 3], Vote successful
+2023/10/17 14:34:45 [POST][id61] voting to vote_approval, preferences = [2 3 10 5 7 1 9 8 6 4], Vote successful
+2023/10/17 14:34:45 [POST][id74] voting to vote_majority, preferences = [8 5 6 2 7 3 4 1 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id90] voting to vote_majority, preferences = [7 8 3 4 5 10 1 2 9 6], Vote successful
+2023/10/17 14:34:45 [POST][id20] voting to vote_stv, preferences = [5 4 1 10 6 8 2 3 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id32] voting to vote_majority, preferences = [5 2 3 9 1 4 8 7 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id02] voting to vote_approval, preferences = [7 8 6 5 4 3 1 2 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id00] voting to vote_majority, preferences = [3 4 6 7 1 5 2 8 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id34] voting to vote_majority, preferences = [2 5 8 10 7 4 6 9 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id74] voting to vote_approval, preferences = [8 5 6 2 7 3 4 1 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id46] voting to vote_approval, preferences = [7 2 6 5 9 4 3 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id69] voting to vote_majority, preferences = [7 8 9 2 4 3 5 10 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id98] voting to vote_stv, preferences = [5 9 7 1 2 10 6 8 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id66] voting to vote_copeland, preferences = [7 4 1 9 3 6 2 10 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id34] voting to vote_approval, preferences = [2 5 8 10 7 4 6 9 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id83] voting to vote_stv, preferences = [7 5 10 1 3 8 4 6 2 9], Vote successful
+2023/10/17 14:34:45 [POST][id59] voting to vote_stv, preferences = [6 5 8 2 9 10 7 4 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id80] voting to vote_stv, preferences = [3 7 2 1 4 8 10 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id25] voting to vote_majority, preferences = [9 10 6 2 4 8 5 1 7 3], Vote successful
+2023/10/17 14:34:45 [POST][id75] voting to vote_majority, preferences = [9 10 1 7 3 8 4 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id12] voting to vote_stv, preferences = [8 5 2 1 4 6 9 10 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id93] voting to vote_majority, preferences = [6 4 2 3 1 8 10 5 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id34] voting to vote_stv, preferences = [2 5 8 10 7 4 6 9 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id24] voting to vote_majority, preferences = [2 8 4 3 1 5 9 6 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id22] voting to vote_stv, preferences = [10 8 1 7 5 4 3 6 9 2], Vote successful
+2023/10/17 14:34:45 [POST][id18] voting to vote_majority, preferences = [6 3 9 7 5 4 8 1 2 10], Vote successful
+2023/10/17 14:34:45 [POST][id62] voting to vote_copeland, preferences = [9 1 7 3 2 10 4 8 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id93] voting to vote_approval, preferences = [6 4 2 3 1 8 10 5 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id21] voting to vote_copeland, preferences = [6 3 9 10 8 5 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id86] voting to vote_majority, preferences = [9 7 3 8 5 1 4 2 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id90] voting to vote_approval, preferences = [7 8 3 4 5 10 1 2 9 6], Vote successful
+2023/10/17 14:34:45 [POST][id30] voting to vote_approval, preferences = [8 10 4 9 1 7 6 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id42] voting to vote_stv, preferences = [6 5 4 8 9 1 10 7 3 2], Vote successful
+2023/10/17 14:34:45 [POST][id90] voting to vote_stv, preferences = [7 8 3 4 5 10 1 2 9 6], Vote successful
+2023/10/17 14:34:45 [POST][id68] voting to vote_approval, preferences = [9 10 3 6 4 5 8 2 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id02] voting to vote_stv, preferences = [7 8 6 5 4 3 1 2 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id82] voting to vote_approval, preferences = [7 5 10 4 9 6 3 2 8 1], Vote successful
+2023/10/17 14:34:45 [POST][id84] voting to vote_approval, preferences = [3 10 7 1 4 2 9 5 8 6], Vote successful
+2023/10/17 14:34:45 [POST][id58] voting to vote_stv, preferences = [10 8 6 1 7 5 2 3 4 9], Vote successful
+2023/10/17 14:34:45 [POST][id71] voting to vote_approval, preferences = [6 10 8 1 9 4 5 2 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id40] voting to vote_copeland, preferences = [6 3 5 4 10 7 2 1 8 9], Vote successful
+2023/10/17 14:34:45 [POST][id17] voting to vote_stv, preferences = [8 7 3 5 10 4 6 9 1 2], Vote successful
+2023/10/17 14:34:45 [POST][id05] voting to vote_majority, preferences = [3 2 9 5 4 7 10 8 6 1], Vote successful
+2023/10/17 14:34:45 [POST][id01] voting to vote_stv, preferences = [4 6 5 1 9 7 10 2 8 3], Vote successful
+2023/10/17 14:34:45 [POST][id61] voting to vote_stv, preferences = [2 3 10 5 7 1 9 8 6 4], Vote successful
+2023/10/17 14:34:45 [POST][id47] voting to vote_approval, preferences = [6 7 1 5 9 3 10 4 8 2], Vote successful
+2023/10/17 14:34:45 [POST][id20] voting to vote_copeland, preferences = [5 4 1 10 6 8 2 3 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id09] voting to vote_approval, preferences = [1 6 4 9 2 8 5 3 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id44] voting to vote_copeland, preferences = [3 6 5 1 9 2 10 7 8 4], Vote successful
+2023/10/17 14:34:45 [POST][id13] voting to vote_majority, preferences = [4 1 10 8 6 9 5 3 7 2], Vote successful
+2023/10/17 14:34:45 [POST][id69] voting to vote_approval, preferences = [7 8 9 2 4 3 5 10 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id38] voting to vote_approval, preferences = [3 6 10 2 7 9 1 8 4 5], Vote successful
+2023/10/17 14:34:45 [POST][id71] voting to vote_stv, preferences = [6 10 8 1 9 4 5 2 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id12] voting to vote_copeland, preferences = [8 5 2 1 4 6 9 10 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id98] voting to vote_copeland, preferences = [5 9 7 1 2 10 6 8 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id89] voting to vote_copeland, preferences = [8 4 6 1 10 3 9 5 2 7], Vote successful
+2023/10/17 14:34:45 [POST][id15] voting to vote_copeland, preferences = [6 4 1 10 5 8 9 7 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id01] voting to vote_copeland, preferences = [4 6 5 1 9 7 10 2 8 3], Vote successful
+2023/10/17 14:34:45 [POST][id57] voting to vote_majority, preferences = [6 8 5 3 9 10 7 2 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id36] voting to vote_majority, preferences = [2 7 9 6 4 5 8 3 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id49] voting to vote_approval, preferences = [8 3 6 10 1 2 4 9 7 5], Vote successful
+2023/10/17 14:34:45 [POST][id65] voting to vote_majority, preferences = [6 5 9 4 2 1 3 10 7 8], Vote successful
+2023/10/17 14:34:45 [POST][id79] voting to vote_approval, preferences = [6 5 8 9 2 4 7 1 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id22] voting to vote_copeland, preferences = [10 8 1 7 5 4 3 6 9 2], Vote successful
+2023/10/17 14:34:45 [POST][id24] voting to vote_approval, preferences = [2 8 4 3 1 5 9 6 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id99] voting to vote_approval, preferences = [10 1 4 2 3 9 7 6 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id93] voting to vote_stv, preferences = [6 4 2 3 1 8 10 5 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id06] voting to vote_majority, preferences = [6 2 10 3 7 4 9 1 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id30] voting to vote_stv, preferences = [8 10 4 9 1 7 6 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id32] voting to vote_approval, preferences = [5 2 3 9 1 4 8 7 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id90] voting to vote_copeland, preferences = [7 8 3 4 5 10 1 2 9 6], Vote successful
+2023/10/17 14:34:45 [POST][id19] voting to vote_stv, preferences = [3 5 1 9 2 7 10 4 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id24] voting to vote_stv, preferences = [2 8 4 3 1 5 9 6 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id47] voting to vote_stv, preferences = [6 7 1 5 9 3 10 4 8 2], Vote successful
+2023/10/17 14:34:45 [POST][id86] voting to vote_approval, preferences = [9 7 3 8 5 1 4 2 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id25] voting to vote_approval, preferences = [9 10 6 2 4 8 5 1 7 3], Vote successful
+2023/10/17 14:34:45 [POST][id42] voting to vote_copeland, preferences = [6 5 4 8 9 1 10 7 3 2], Vote successful
+2023/10/17 14:34:45 [POST][id73] voting to vote_approval, preferences = [4 2 3 6 9 5 10 1 8 7], Vote successful
+2023/10/17 14:34:45 [POST][id83] voting to vote_copeland, preferences = [7 5 10 1 3 8 4 6 2 9], Vote successful
+2023/10/17 14:34:45 [POST][id74] voting to vote_stv, preferences = [8 5 6 2 7 3 4 1 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id02] voting to vote_copeland, preferences = [7 8 6 5 4 3 1 2 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id46] voting to vote_stv, preferences = [7 2 6 5 9 4 3 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id59] voting to vote_copeland, preferences = [6 5 8 2 9 10 7 4 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id75] voting to vote_approval, preferences = [9 10 1 7 3 8 4 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id61] voting to vote_copeland, preferences = [2 3 10 5 7 1 9 8 6 4], Vote successful
+2023/10/17 14:34:45 [POST][id68] voting to vote_stv, preferences = [9 10 3 6 4 5 8 2 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id17] voting to vote_copeland, preferences = [8 7 3 5 10 4 6 9 1 2], Vote successful
+2023/10/17 14:34:45 [POST][id80] voting to vote_copeland, preferences = [3 7 2 1 4 8 10 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id58] voting to vote_copeland, preferences = [10 8 6 1 7 5 2 3 4 9], Vote successful
+2023/10/17 14:34:45 [POST][id84] voting to vote_stv, preferences = [3 10 7 1 4 2 9 5 8 6], Vote successful
+2023/10/17 14:34:45 [POST][id96] voting to vote_approval, preferences = [4 1 8 5 2 7 3 10 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id71] voting to vote_copeland, preferences = [6 10 8 1 9 4 5 2 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id05] voting to vote_approval, preferences = [3 2 9 5 4 7 10 8 6 1], Vote successful
+2023/10/17 14:34:45 [POST][id09] voting to vote_stv, preferences = [1 6 4 9 2 8 5 3 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id18] voting to vote_approval, preferences = [6 3 9 7 5 4 8 1 2 10], Vote successful
+2023/10/17 14:34:45 [POST][id99] voting to vote_stv, preferences = [10 1 4 2 3 9 7 6 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id19] voting to vote_copeland, preferences = [3 5 1 9 2 7 10 4 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id46] voting to vote_copeland, preferences = [7 2 6 5 9 4 3 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id13] voting to vote_approval, preferences = [4 1 10 8 6 9 5 3 7 2], Vote successful
+2023/10/17 14:34:45 [POST][id38] voting to vote_stv, preferences = [3 6 10 2 7 9 1 8 4 5], Vote successful
+2023/10/17 14:34:45 [POST][id99] voting to vote_copeland, preferences = [10 1 4 2 3 9 7 6 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id13] voting to vote_stv, preferences = [4 1 10 8 6 9 5 3 7 2], Vote successful
+2023/10/17 14:34:45 [POST][id57] voting to vote_approval, preferences = [6 8 5 3 9 10 7 2 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id13] voting to vote_copeland, preferences = [4 1 10 8 6 9 5 3 7 2], Vote successful
+2023/10/17 14:34:45 [POST][id25] voting to vote_stv, preferences = [9 10 6 2 4 8 5 1 7 3], Vote successful
+2023/10/17 14:34:45 [POST][id68] voting to vote_copeland, preferences = [9 10 3 6 4 5 8 2 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id49] voting to vote_stv, preferences = [8 3 6 10 1 2 4 9 7 5], Vote successful
+2023/10/17 14:34:45 [POST][id69] voting to vote_stv, preferences = [7 8 9 2 4 3 5 10 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id82] voting to vote_stv, preferences = [7 5 10 4 9 6 3 2 8 1], Vote successful
+2023/10/17 14:34:45 [POST][id00] voting to vote_approval, preferences = [3 4 6 7 1 5 2 8 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id92] voting to vote_approval, preferences = [3 9 2 4 5 7 10 1 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id03] voting to vote_majority, preferences = [2 7 4 1 10 3 5 8 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id30] voting to vote_copeland, preferences = [8 10 4 9 1 7 6 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id34] voting to vote_copeland, preferences = [2 5 8 10 7 4 6 9 1 3], Vote successful
+2023/10/17 14:34:45 [POST][id35] voting to vote_approval, preferences = [10 9 1 8 5 7 4 2 6 3], Vote successful
+2023/10/17 14:34:45 [POST][id36] voting to vote_approval, preferences = [2 7 9 6 4 5 8 3 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id79] voting to vote_stv, preferences = [6 5 8 9 2 4 7 1 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id04] voting to vote_majority, preferences = [3 7 6 5 2 8 10 4 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id00] voting to vote_stv, preferences = [3 4 6 7 1 5 2 8 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id47] voting to vote_copeland, preferences = [6 7 1 5 9 3 10 4 8 2], Vote successful
+2023/10/17 14:34:45 [POST][id06] voting to vote_approval, preferences = [6 2 10 3 7 4 9 1 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id36] voting to vote_stv, preferences = [2 7 9 6 4 5 8 3 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id27] voting to vote_majority, preferences = [5 2 7 4 6 3 9 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id93] voting to vote_copeland, preferences = [6 4 2 3 1 8 10 5 7 9], Vote successful
+2023/10/17 14:34:45 [POST][id35] voting to vote_stv, preferences = [10 9 1 8 5 7 4 2 6 3], Vote successful
+2023/10/17 14:34:45 [POST][id79] voting to vote_copeland, preferences = [6 5 8 9 2 4 7 1 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id78] voting to vote_stv, preferences = [5 1 9 6 3 7 8 2 10 4], Vote successful
+2023/10/17 14:34:45 [POST][id63] voting to vote_stv, preferences = [8 10 2 3 6 5 4 7 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id00] voting to vote_copeland, preferences = [3 4 6 7 1 5 2 8 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id04] voting to vote_approval, preferences = [3 7 6 5 2 8 10 4 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id32] voting to vote_stv, preferences = [5 2 3 9 1 4 8 7 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id26] voting to vote_approval, preferences = [5 9 6 4 2 10 3 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id08] voting to vote_stv, preferences = [2 4 10 9 8 3 6 5 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id50] voting to vote_majority, preferences = [2 4 9 3 5 6 8 1 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id96] voting to vote_stv, preferences = [4 1 8 5 2 7 3 10 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id09] voting to vote_copeland, preferences = [1 6 4 9 2 8 5 3 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id84] voting to vote_copeland, preferences = [3 10 7 1 4 2 9 5 8 6], Vote successful
+2023/10/17 14:34:45 [POST][id25] voting to vote_copeland, preferences = [9 10 6 2 4 8 5 1 7 3], Vote successful
+2023/10/17 14:34:45 [POST][id49] voting to vote_copeland, preferences = [8 3 6 10 1 2 4 9 7 5], Vote successful
+2023/10/17 14:34:45 [POST][id65] voting to vote_approval, preferences = [6 5 9 4 2 1 3 10 7 8], Vote successful
+2023/10/17 14:34:45 [POST][id63] voting to vote_copeland, preferences = [8 10 2 3 6 5 4 7 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id60] voting to vote_approval, preferences = [7 4 2 5 8 9 3 1 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id35] voting to vote_copeland, preferences = [10 9 1 8 5 7 4 2 6 3], Vote successful
+2023/10/17 14:34:45 [POST][id06] voting to vote_stv, preferences = [6 2 10 3 7 4 9 1 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id78] voting to vote_copeland, preferences = [5 1 9 6 3 7 8 2 10 4], Vote successful
+2023/10/17 14:34:45 [POST][id36] voting to vote_copeland, preferences = [2 7 9 6 4 5 8 3 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id27] voting to vote_approval, preferences = [5 2 7 4 6 3 9 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id94] voting to vote_majority, preferences = [6 2 9 10 3 5 8 7 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id04] voting to vote_stv, preferences = [3 7 6 5 2 8 10 4 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id26] voting to vote_stv, preferences = [5 9 6 4 2 10 3 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id27] voting to vote_stv, preferences = [5 2 7 4 6 3 9 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id31] voting to vote_majority, preferences = [9 5 3 10 6 8 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id32] voting to vote_copeland, preferences = [5 2 3 9 1 4 8 7 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id37] voting to vote_majority, preferences = [8 4 1 5 3 2 10 7 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id14] voting to vote_approval, preferences = [5 9 7 4 1 6 10 2 3 8], Vote successful
+2023/10/17 14:34:45 [POST][id50] voting to vote_approval, preferences = [2 4 9 3 5 6 8 1 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id27] voting to vote_copeland, preferences = [5 2 7 4 6 3 9 10 1 8], Vote successful
+2023/10/17 14:34:45 [POST][id70] voting to vote_approval, preferences = [1 10 7 5 8 3 9 4 2 6], Vote successful
+2023/10/17 14:34:45 [POST][id45] voting to vote_majority, preferences = [10 6 2 5 3 8 4 9 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id50] voting to vote_stv, preferences = [2 4 9 3 5 6 8 1 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id14] voting to vote_stv, preferences = [5 9 7 4 1 6 10 2 3 8], Vote successful
+2023/10/17 14:34:45 [POST][id70] voting to vote_stv, preferences = [1 10 7 5 8 3 9 4 2 6], Vote successful
+2023/10/17 14:34:45 [POST][id45] voting to vote_approval, preferences = [10 6 2 5 3 8 4 9 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id50] voting to vote_copeland, preferences = [2 4 9 3 5 6 8 1 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id14] voting to vote_copeland, preferences = [5 9 7 4 1 6 10 2 3 8], Vote successful
+2023/10/17 14:34:45 [POST][id70] voting to vote_copeland, preferences = [1 10 7 5 8 3 9 4 2 6], Vote successful
+2023/10/17 14:34:45 [POST][id87] voting to vote_copeland, preferences = [2 7 3 1 9 6 8 4 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id45] voting to vote_stv, preferences = [10 6 2 5 3 8 4 9 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id10] voting to vote_stv, preferences = [10 6 3 7 1 2 4 9 5 8], Vote successful
+2023/10/17 14:34:45 [POST][id76] voting to vote_majority, preferences = [6 10 9 4 7 8 1 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id45] voting to vote_copeland, preferences = [10 6 2 5 3 8 4 9 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id11] voting to vote_majority, preferences = [5 2 8 7 4 3 6 9 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id77] voting to vote_approval, preferences = [4 1 8 5 6 3 2 9 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id76] voting to vote_approval, preferences = [6 10 9 4 7 8 1 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id23] voting to vote_approval, preferences = [5 9 7 8 2 6 10 1 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id11] voting to vote_approval, preferences = [5 2 8 7 4 3 6 9 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id28] voting to vote_majority, preferences = [4 5 9 7 6 2 1 3 10 8], Vote successful
+2023/10/17 14:34:45 [POST][id77] voting to vote_stv, preferences = [4 1 8 5 6 3 2 9 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id76] voting to vote_stv, preferences = [6 10 9 4 7 8 1 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id23] voting to vote_stv, preferences = [5 9 7 8 2 6 10 1 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id28] voting to vote_approval, preferences = [4 5 9 7 6 2 1 3 10 8], Vote successful
+2023/10/17 14:34:45 [POST][id11] voting to vote_stv, preferences = [5 2 8 7 4 3 6 9 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id77] voting to vote_copeland, preferences = [4 1 8 5 6 3 2 9 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id52] voting to vote_majority, preferences = [10 3 9 8 5 1 6 7 4 2], Vote successful
+2023/10/17 14:34:45 [POST][id28] voting to vote_stv, preferences = [4 5 9 7 6 2 1 3 10 8], Vote successful
+2023/10/17 14:34:45 [POST][id55] voting to vote_majority, preferences = [7 8 5 6 4 1 9 2 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id76] voting to vote_copeland, preferences = [6 10 9 4 7 8 1 5 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id23] voting to vote_copeland, preferences = [5 9 7 8 2 6 10 1 3 4], Vote successful
+2023/10/17 14:34:45 [POST][id11] voting to vote_copeland, preferences = [5 2 8 7 4 3 6 9 1 10], Vote successful
+2023/10/17 14:34:45 [POST][id48] voting to vote_approval, preferences = [2 9 1 8 4 5 7 6 10 3], Vote successful
+2023/10/17 14:34:45 [POST][id52] voting to vote_approval, preferences = [10 3 9 8 5 1 6 7 4 2], Vote successful
+2023/10/17 14:34:45 [POST][id28] voting to vote_copeland, preferences = [4 5 9 7 6 2 1 3 10 8], Vote successful
+2023/10/17 14:34:45 [POST][id55] voting to vote_approval, preferences = [7 8 5 6 4 1 9 2 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id85] voting to vote_stv, preferences = [4 8 6 9 5 7 1 10 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id48] voting to vote_stv, preferences = [2 9 1 8 4 5 7 6 10 3], Vote successful
+2023/10/17 14:34:45 [POST][id52] voting to vote_stv, preferences = [10 3 9 8 5 1 6 7 4 2], Vote successful
+2023/10/17 14:34:45 [POST][id88] voting to vote_majority, preferences = [1 8 10 4 7 2 3 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id55] voting to vote_stv, preferences = [7 8 5 6 4 1 9 2 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id85] voting to vote_copeland, preferences = [4 8 6 9 5 7 1 10 2 3], Vote successful
+2023/10/17 14:34:45 [POST][id48] voting to vote_copeland, preferences = [2 9 1 8 4 5 7 6 10 3], Vote successful
+2023/10/17 14:34:45 [POST][id81] voting to vote_majority, preferences = [4 1 5 8 10 9 2 6 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id88] voting to vote_approval, preferences = [1 8 10 4 7 2 3 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id55] voting to vote_copeland, preferences = [7 8 5 6 4 1 9 2 3 10], Vote successful
+2023/10/17 14:34:45 [POST][id52] voting to vote_copeland, preferences = [10 3 9 8 5 1 6 7 4 2], Vote successful
+2023/10/17 14:34:45 [POST][id81] voting to vote_approval, preferences = [4 1 5 8 10 9 2 6 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id54] voting to vote_approval, preferences = [6 1 5 4 7 9 2 3 8 10], Vote successful
+2023/10/17 14:34:45 [POST][id88] voting to vote_stv, preferences = [1 8 10 4 7 2 3 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id33] voting to vote_approval, preferences = [9 10 3 4 6 5 2 8 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id81] voting to vote_stv, preferences = [4 1 5 8 10 9 2 6 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id54] voting to vote_stv, preferences = [6 1 5 4 7 9 2 3 8 10], Vote successful
+2023/10/17 14:34:45 [POST][id88] voting to vote_copeland, preferences = [1 8 10 4 7 2 3 9 5 6], Vote successful
+2023/10/17 14:34:45 [POST][id81] voting to vote_copeland, preferences = [4 1 5 8 10 9 2 6 3 7], Vote successful
+2023/10/17 14:34:45 [POST][id54] voting to vote_copeland, preferences = [6 1 5 4 7 9 2 3 8 10], Vote successful
+2023/10/17 14:34:45 [POST][id43] voting to vote_approval, preferences = [5 8 10 1 4 6 7 2 9 3], Vote successful
+2023/10/17 14:34:45 [POST][id43] voting to vote_stv, preferences = [5 8 10 1 4 6 7 2 9 3], Vote successful
+2023/10/17 14:34:45 [POST][id67] voting to vote_majority, preferences = [2 8 4 3 1 9 6 5 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id43] voting to vote_copeland, preferences = [5 8 10 1 4 6 7 2 9 3], Vote successful
+2023/10/17 14:34:45 [POST][id53] voting to vote_approval, preferences = [10 2 9 8 4 3 5 7 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id29] voting to vote_approval, preferences = [1 2 6 8 7 3 5 10 9 4], Vote successful
+2023/10/17 14:34:45 [POST][id67] voting to vote_approval, preferences = [2 8 4 3 1 9 6 5 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id39] voting to vote_stv, preferences = [10 9 6 2 3 5 4 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id53] voting to vote_stv, preferences = [10 2 9 8 4 3 5 7 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id29] voting to vote_stv, preferences = [1 2 6 8 7 3 5 10 9 4], Vote successful
+2023/10/17 14:34:45 [POST][id56] voting to vote_stv, preferences = [8 3 9 2 6 7 4 1 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id53] voting to vote_copeland, preferences = [10 2 9 8 4 3 5 7 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id67] voting to vote_stv, preferences = [2 8 4 3 1 9 6 5 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id39] voting to vote_copeland, preferences = [10 9 6 2 3 5 4 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id29] voting to vote_copeland, preferences = [1 2 6 8 7 3 5 10 9 4], Vote successful
+2023/10/17 14:34:45 [POST][id56] voting to vote_copeland, preferences = [8 3 9 2 6 7 4 1 10 5], Vote successful
+2023/10/17 14:34:45 [POST][id91] voting to vote_stv, preferences = [8 4 6 1 5 7 2 3 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id67] voting to vote_copeland, preferences = [2 8 4 3 1 9 6 5 10 7], Vote successful
+2023/10/17 14:34:45 [POST][id72] voting to vote_stv, preferences = [4 6 1 3 8 7 10 9 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id91] voting to vote_copeland, preferences = [8 4 6 1 5 7 2 3 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id72] voting to vote_copeland, preferences = [4 6 1 3 8 7 10 9 2 5], Vote successful
+2023/10/17 14:34:45 [POST][id18] voting to vote_stv, preferences = [6 3 9 7 5 4 8 1 2 10], Vote successful
+2023/10/17 14:34:45 [POST][id18] voting to vote_copeland, preferences = [6 3 9 7 5 4 8 1 2 10], Vote successful
+2023/10/17 14:34:45 [POST][id24] voting to vote_copeland, preferences = [2 8 4 3 1 5 9 6 7 10], Vote successful
+2023/10/17 14:34:45 [POST][id73] voting to vote_stv, preferences = [4 2 3 6 9 5 10 1 8 7], Vote successful
+2023/10/17 14:34:45 [POST][id86] voting to vote_stv, preferences = [9 7 3 8 5 1 4 2 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id73] voting to vote_copeland, preferences = [4 2 3 6 9 5 10 1 8 7], Vote successful
+2023/10/17 14:34:45 [POST][id75] voting to vote_stv, preferences = [9 10 1 7 3 8 4 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id74] voting to vote_copeland, preferences = [8 5 6 2 7 3 4 1 10 9], Vote successful
+2023/10/17 14:34:45 [POST][id86] voting to vote_copeland, preferences = [9 7 3 8 5 1 4 2 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id05] voting to vote_stv, preferences = [3 2 9 5 4 7 10 8 6 1], Vote successful
+2023/10/17 14:34:45 [POST][id75] voting to vote_copeland, preferences = [9 10 1 7 3 8 4 2 6 5], Vote successful
+2023/10/17 14:34:45 [POST][id05] voting to vote_copeland, preferences = [3 2 9 5 4 7 10 8 6 1], Vote successful
+2023/10/17 14:34:45 [POST][id82] voting to vote_copeland, preferences = [7 5 10 4 9 6 3 2 8 1], Vote successful
+2023/10/17 14:34:45 [POST][id38] voting to vote_copeland, preferences = [3 6 10 2 7 9 1 8 4 5], Vote successful
+2023/10/17 14:34:45 [POST][id57] voting to vote_stv, preferences = [6 8 5 3 9 10 7 2 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id69] voting to vote_copeland, preferences = [7 8 9 2 4 3 5 10 1 6], Vote successful
+2023/10/17 14:34:45 [POST][id57] voting to vote_copeland, preferences = [6 8 5 3 9 10 7 2 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id92] voting to vote_stv, preferences = [3 9 2 4 5 7 10 1 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id03] voting to vote_approval, preferences = [2 7 4 1 10 3 5 8 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id08] voting to vote_copeland, preferences = [2 4 10 9 8 3 6 5 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id92] voting to vote_copeland, preferences = [3 9 2 4 5 7 10 1 6 8], Vote successful
+2023/10/17 14:34:45 [POST][id03] voting to vote_stv, preferences = [2 7 4 1 10 3 5 8 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id96] voting to vote_copeland, preferences = [4 1 8 5 2 7 3 10 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id60] voting to vote_stv, preferences = [7 4 2 5 8 9 3 1 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id26] voting to vote_copeland, preferences = [5 9 6 4 2 10 3 8 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id03] voting to vote_copeland, preferences = [2 7 4 1 10 3 5 8 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id65] voting to vote_stv, preferences = [6 5 9 4 2 1 3 10 7 8], Vote successful
+2023/10/17 14:34:45 [POST][id60] voting to vote_copeland, preferences = [7 4 2 5 8 9 3 1 10 6], Vote successful
+2023/10/17 14:34:45 [POST][id06] voting to vote_copeland, preferences = [6 2 10 3 7 4 9 1 8 5], Vote successful
+2023/10/17 14:34:45 [POST][id65] voting to vote_copeland, preferences = [6 5 9 4 2 1 3 10 7 8], Vote successful
+2023/10/17 14:34:45 [POST][id37] voting to vote_approval, preferences = [8 4 1 5 3 2 10 7 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id94] voting to vote_approval, preferences = [6 2 9 10 3 5 8 7 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id37] voting to vote_stv, preferences = [8 4 1 5 3 2 10 7 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id04] voting to vote_copeland, preferences = [3 7 6 5 2 8 10 4 1 9], Vote successful
+2023/10/17 14:34:45 [POST][id94] voting to vote_stv, preferences = [6 2 9 10 3 5 8 7 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id37] voting to vote_copeland, preferences = [8 4 1 5 3 2 10 7 6 9], Vote successful
+2023/10/17 14:34:45 [POST][id31] voting to vote_approval, preferences = [9 5 3 10 6 8 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id94] voting to vote_copeland, preferences = [6 2 9 10 3 5 8 7 4 1], Vote successful
+2023/10/17 14:34:45 [POST][id10] voting to vote_copeland, preferences = [10 6 3 7 1 2 4 9 5 8], Vote successful
+2023/10/17 14:34:45 [POST][id31] voting to vote_stv, preferences = [9 5 3 10 6 8 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id33] voting to vote_stv, preferences = [9 10 3 4 6 5 2 8 7 1], Vote successful
+2023/10/17 14:34:45 [POST][id31] voting to vote_copeland, preferences = [9 5 3 10 6 8 4 2 1 7], Vote successful
+2023/10/17 14:34:45 [POST][id33] voting to vote_copeland, preferences = [9 10 3 4 6 5 2 8 7 1], Vote successful
+2023/10/17 14:34:46 id41error:failed to get count: 425 425 Too Early
