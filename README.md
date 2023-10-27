@@ -1,3 +1,8 @@
+# Auteurs
+
+- **XU Zhenyang**
+- **SUN Hudie**
+
 # Pour récupérer sur gitlab le package
 
 ## FOR WINDOWS:
